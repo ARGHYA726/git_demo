@@ -1,1 +1,3 @@
 Hello this is a test
+
+I want a merge conflict (b1)
