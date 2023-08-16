@@ -1,3 +1,7 @@
 Hello this is a test
 
+
+I want a merge conflict (master)
+
 I want a merge conflict (b1)
+
